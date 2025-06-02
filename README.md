@@ -2,7 +2,7 @@
 
 This script simulates a basic user account management system for Linux/macOS environments.
 
-## 🚀 Features
+##  Features
 - Simulates creating, disabling, and deleting local users
 - Logs every action to `user_actions.log`
 - Menu-based terminal interface
@@ -15,7 +15,7 @@ This script mirrors how DevOps teams manage users on remote servers:
 - Useful in provisioning, onboarding, and access control automation
 - Can be scaled into Ansible or CI/CD flows
 
-## 🧪 Usage
+##  Usage
 
 ```bash
 chmod +x user_manager.sh
